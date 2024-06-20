@@ -93,7 +93,7 @@ aside>.container{
     flex-direction: column;
 }
 aside.active{
-width: 300px;
+width: 400px;
 }
 aside img{
     margin: 20px;
